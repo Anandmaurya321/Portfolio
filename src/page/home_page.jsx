@@ -23,15 +23,15 @@ const Portfolio = () => {
     name: "Anand Maurya",
     role: "Full Stack Developer & Competitive Programmer",
     bio: "B.Tech CSE Student at MMMUT. I build scalable web systems and solve algorithmic problems. Passionate about MERN stack and Automation.",
-    email: "2023021009@mmmut.ac.in",
+    email: "mauryanand2004@gmail.com",
     location: "Gorakhpur, India",
-    resumeLink: "/Resume_college_format.docx", // Ensure this file is in your public folder
+    resumeLink: "/MyResume.pdf", // Ensure this file is in your public folder
     avatar: "https://avatars.githubusercontent.com/u/170529548?v=4", 
     social: {
       github: "https://github.com/Anandmaurya321",
-      linkedin: "https://linkedin.com/in/anand-maurya",
-      leetcode: "https://leetcode.com/", // Add full link
-      codechef: "https://www.codechef.com/" // Add full link
+      linkedin: "https://www.linkedin.com/in/anand-maurya-a894b5281/",
+      leetcode: "https://leetcode.com/u/iliveinindia134/", 
+      codechef: "https://www.codechef.com/users/anandmaurya123" 
     }
   };
 
