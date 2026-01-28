@@ -25,7 +25,7 @@ const Portfolio = () => {
     bio: "B.Tech CSE Student at MMMUT. I build scalable web systems and solve algorithmic problems. Passionate about MERN stack and Automation.",
     email: "mauryanand2004@gmail.com",
     location: "Gorakhpur, India",
-    resumeLink: "/MyResume.pdf", // Ensure this file is in your public folder
+    resumeLink: "/MyResume.pdf", 
     avatar: "https://avatars.githubusercontent.com/u/170529548?v=4", 
     social: {
       github: "https://github.com/Anandmaurya321",
@@ -59,7 +59,7 @@ const Portfolio = () => {
         "JWT Authentication",
         "Admin Dashboard"
       ],
-      link: "#", // Add project link
+      link: "https://home-help2-0.vercel.app/", 
       image: "https://placehold.co/600x400/1e293b/3b82f6?text=Home_Help+Preview" // Placeholder
     },
     {
@@ -72,7 +72,7 @@ const Portfolio = () => {
         "Google Sheets Sync",
         "Daily Trigger Execution"
       ],
-      link: "#",
+      link: "#", // Add project link
       image: "https://placehold.co/600x400/1e293b/10b981?text=AI+Agent+Workflow" // Placeholder
     }
   ];
