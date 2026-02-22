@@ -29,8 +29,8 @@ const Portfolio = () => {
     avatar: "https://avatars.githubusercontent.com/u/170529548?v=4",
     social: {
       github: "https://github.com/Anandmaurya321",
-      linkedin: "https://www.linkedin.com/in/anand-maurya-a894b5281/",
-      leetcode: "https://leetcode.com/u/iliveinindia134/",
+      linkedin: "https://www.linkedin.com/in/anandm2004/",
+      leetcode: "https://leetcode.com/u/anandm2004/",
       codechef: "https://www.codechef.com/users/anandmaurya123"
     }
   };
