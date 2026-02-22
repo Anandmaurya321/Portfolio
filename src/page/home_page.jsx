@@ -25,7 +25,7 @@ const Portfolio = () => {
     bio: "B.Tech CSE student at MMMUT (GPA 8.56). I build production-ready MERN applications, deploy using Docker & AWS, and actively compete in algorithmic contests.",
     email: "mauryanand2004@gmail.com",
     location: "Gorakhpur, India",
-    resumeLink: "/MyResume.pdf",
+    resumeLink: "/myResume.pdf",
     avatar: "https://avatars.githubusercontent.com/u/170529548?v=4",
     social: {
       github: "https://github.com/Anandmaurya321",
